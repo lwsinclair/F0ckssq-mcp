@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/rusianhu-f0ckssq-mcp-badge.png)](https://mseep.ai/app/rusianhu-f0ckssq-mcp)
+
 # 双色球数据爬虫 MCP 服务
 
 双色球数据爬虫 MCP，提供双色球历史数据查询和分析功能。
